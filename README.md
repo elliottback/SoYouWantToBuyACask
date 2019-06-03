@@ -24,6 +24,7 @@ Buying and warehousing an entire cask is not necessarily an easy undertaking, an
 
 There are lots of brokers who will help you buy a cask ... for a price!
 
+* [Cask Brokers](http://cask-brokers.com/)
 * [The Whisky Cask Company](https://whiskycaskcompany.com/process)
 * [Cask 88](https://cask88.com/whisky-casks/)
 * [The Single Cask](https://www.thesinglecask.co.uk/cask-ownership)
@@ -46,6 +47,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Lagg|Isle of Arran|first-fill ex-Sherry Butt|10 Years|200 Liters|£6,000|[Link](http://www.laggwhisky.com/assets/000/000/009/LAGG_Cask_Society_Information_Booklet_2018_original.pdf)
 |Lindores Abbey|Fife|Massive Varieties|10 Years|195 Liters|£4,000|[Link](https://lindoresabbeydistillery.com/welcome-lindores-abbey-distillery/cask-ownership/)
 |Ncn'ean|Morven|?|?|?|£3,000|[Link](https://www.ncnean.com/buy-a-barrel/)
+|Nephin |Ireland|?|?|200 Liters|€6,500|[Link](http://nephinwhiskey.com/casks)
 |Raasay|Islay|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Raasay|Islay|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Strathearn|Lowlands?|Various|?|50 Liters|Enquiry Only|[Link](https://www.strathearndistillery.com/private-cask-club)
