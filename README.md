@@ -1,4 +1,4 @@
-# SoYouWantToBuyACask
+# So, You Want To Buy A Cask?
 So, you want to buy a whisky cask?  Here's a collection of resources.
 
 Please note that I have listed prices, when available, **inclusive of warehousing costs** for the listed period, but **exclusive of bottling/distribution/taxes**.  
