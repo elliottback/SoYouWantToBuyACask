@@ -37,6 +37,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Adelphi|Ardnamurchan|American or Spanish oak-ex sherry hogshead (peated +3100)|10 Years|260 Liters|£3,500|[Link](https://www.adelphidistillery.com/private-casks/)
 |Adelphi|Ardnamurchan|American or Spanish oak-ex sherry butt (peated +£300)|10 Years|500 Liters|£6,300|[Link](https://www.adelphidistillery.com/private-casks/)
 |Annandale|Lowlands|Peated / Unpeated|?|200 Liters|Enquiry Only|[Link](https://annandaledistillery.com/pages/casks)
+|Borders||?|?|?|?|£1,995|[Link](https://www.thebordersdistillery.com/casks/)
 |Glasgow|Lowlands|Unpeated Ex-Bourbon|5 Years|200 Litre|£3,125|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Peated Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Triple Distilled Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
