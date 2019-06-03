@@ -38,8 +38,10 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Inchdairnie|Fife|?|10 Years|?|Enquiry Only|[Link](http://inchdairniedistillery.com/cask-club/)
 |Lagg|Isle of Arran|first-fill ex-Sherry Butt|10 Years|200 Liters|£6,000|[Link](http://www.laggwhisky.com/assets/000/000/009/LAGG_Cask_Society_Information_Booklet_2018_original.pdf)
 |Lindores Abbey|Fife|Massive Varieties|10 Years|195 Liters|£4,000|[Link](https://lindoresabbeydistillery.com/welcome-lindores-abbey-distillery/cask-ownership/)
+|Ncnean|Morven|?|?|?|£3,000|[Link](https://www.ncnean.com/buy-a-barrel/)
 |Raasay|Islay|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Raasay|Islay|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
+|The Milk & Honey|Israel|first-fill ex-bourbon cask|3 Years|200 Liters|€2,650|[Link](https://mh-distillery.com/wp-content/uploads/2019/03/MH__cask-offer_27_02_digital_spreads.pdf)
 
 # Established Distilleries
 
