@@ -1,9 +1,15 @@
 # SoYouWantToBuyACask
 So, you want to buy a whisky cask?  Here's a collection of resources.
 
+Please note that I have listed prices, when available, **inclusive of warehousing costs** for the listed period, but **exclusive of bottling/distribution/taxes**.  
+
 # First Things First
 
 * [Should you buy or invest in a whisky cask?](https://www.whiskyandwisdom.com/should-you-buy-or-invest-in-a-cask-of-whisky/)
+
+Before you go buy casks, think about what you would do with hundreds of bottles of unpopular scotch, which you cannot resell (distilleries claim the right of first refusal). Maybe you'll drink it all, maybe not. Also, due at bottling, are various taxes, bottling and labeling fees, etc. If you choose not to bottle after the initial time period, you will need to pay for bonded storage until you are ready.
+
+Lastly, you are buying a single cask, and there's no guarantee if it's going to be any good. Distilleries blend together a variety of casks to create consistent product; as a single-cask consumer, you won't have that luxury.
 
 # Crowdfunding / Shared Cask Options
 
@@ -28,8 +34,12 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Raasay|Islay|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Raasay|Islay|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Annandale|Lowlands|Peated / Unpeated|?|200 Liters|Enquiry Only|[Link](https://annandaledistillery.com/pages/casks)
+|Lindores Abbey|Lowlands|Massive Varieties|10 Years|195 Liters|£4,000|[Link](https://lindoresabbeydistillery.com/welcome-lindores-abbey-distillery/cask-ownership/)
 
 # Established Distilleries
+
+These are established distilleries which offer cask purchase options.
+
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
 |Arran|Isle of Arran|First Fill Ex-Bourbon Barrel|10 Years +|200 Liters|£2,500|[Link](file:///C:/Users/ellio/Downloads/Cask%20Offer%202019.pdf)
@@ -39,3 +49,4 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 
 Casks that once were for sale, but not at time of writing anymore.  As it's an evolving business and market, it's quite possible that these might once again sell casks to the public.
 
+* [Abbey Whisky Cask Ownership](https://www.abbeywhisky.com/cask-ownership.html)
