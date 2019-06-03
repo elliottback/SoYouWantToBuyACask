@@ -31,10 +31,13 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
+|Annandale|Lowlands|Peated / Unpeated|?|200 Liters|Enquiry Only|[Link](https://annandaledistillery.com/pages/casks)
+|Glasgow|Lowlands|Unpeated Ex-Bourbon|5 Years|200 Litre|£3,125|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
+|Glasgow|Lowlands|Peated Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
+|Glasgow|Lowlands|Triple Distilled Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
+|Lindores Abbey|Lowlands|Massive Varieties|10 Years|195 Liters|£4,000|[Link](https://lindoresabbeydistillery.com/welcome-lindores-abbey-distillery/cask-ownership/)
 |Raasay|Islay|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Raasay|Islay|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
-|Annandale|Lowlands|Peated / Unpeated|?|200 Liters|Enquiry Only|[Link](https://annandaledistillery.com/pages/casks)
-|Lindores Abbey|Lowlands|Massive Varieties|10 Years|195 Liters|£4,000|[Link](https://lindoresabbeydistillery.com/welcome-lindores-abbey-distillery/cask-ownership/)
 
 # Established Distilleries
 
@@ -50,3 +53,4 @@ These are established distilleries which offer cask purchase options.
 Casks that once were for sale, but not at time of writing anymore.  As it's an evolving business and market, it's quite possible that these might once again sell casks to the public.
 
 * [Abbey Whisky Cask Ownership](https://www.abbeywhisky.com/cask-ownership.html)
+* [Ardnahoe](https://ardnahoedistillery.com/cask-sales/)
