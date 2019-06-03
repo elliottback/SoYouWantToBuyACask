@@ -61,6 +61,7 @@ You gotta bug them for nonpublic terms:
 |-----------|--------|----|--------|----|------|----|
 |Annandale|Lowlands|Peated / Unpeated|?|200 Liters|Enquiry Only|[Link](https://annandaledistillery.com/pages/casks)
 |Cardrona|New Zealand|Oak|10 Years|500/200 Liters|Enquiry Only|[Link](https://www.cardronadistillery.com/private-casks)
+|High Coast|Sweden|3+ Years|40 Liters|Enquiry Only|[Link](http://highcoastwhisky.se/aga-ett-whiskyfat/)
 |Inchdairnie|Fife|?|10 Years|?|Enquiry Only|[Link](http://inchdairniedistillery.com/cask-club/)
 |Spirit of Yorkshire|?|?|?|?|?|[Link](https://www.spiritofyorkshire.com/cask-offer-i26)
 |Strathearn|Lowlands?|Various|?|50 Liters|Enquiry Only|[Link](https://www.strathearndistillery.com/private-cask-club)
