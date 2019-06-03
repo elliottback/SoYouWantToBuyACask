@@ -65,4 +65,5 @@ Casks that once were for sale, but not at time of writing anymore.  As it's an e
 
 * [Abbey Whisky Cask Ownership](https://www.abbeywhisky.com/cask-ownership.html)
 * [Ardnahoe](https://ardnahoedistillery.com/cask-sales/)
+* [Barra](http://www.uisgebeathananeilean.co.uk/invest.html)
 * [Bruichladdich](https://www.bruichladdich.com/whisky-shop/casks)
