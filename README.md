@@ -51,6 +51,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Strathearn|Lowlands?|Various|?|50 Liters|Enquiry Only|[Link](https://www.strathearndistillery.com/private-cask-club)
 |The Milk & Honey|Israel|first-fill ex-bourbon cask|3 Years|200 Liters|€2,650|[Link](https://mh-distillery.com/wp-content/uploads/2019/03/MH__cask-offer_27_02_digital_spreads.pdf)
 |Toulvaddie|Highlands|?|3 Years|70 Liters|£2,000|[Link](https://www.toulvaddiedistillery.com/cask-ownership)
+|Willowbank|New Zealand|ex-Bourbon American Oak or ex-NZ Red Wine French Oak|2 Years|20 Liters|NZD$2995|[Link](http://www.newzealandwhiskycasks.com/the-offer/)
 
 # Established Distilleries
 
