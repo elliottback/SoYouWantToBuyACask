@@ -10,13 +10,13 @@ So, you want to buy a whisky cask?  Here's a collection of resources.
 Buying and warehousing an entire cask is not necessarily an easy undertaking, and every cask has its share of risk of being a dud.  Logistically, it might make more sense to buy individual bottle shares in casks of interest; several companies have begun to do this.  I also include the old time cask club, the SMWS here:
 
 * [Craft Whisky Club's Caskshare](https://www.craftwhiskyclub.com/en/caskshare/casks)
+* [casQueteers](http://www.casqueteers.com/beschikbare-cask-programmas/)
 * [The Scotch Malt Whisky Society](https://www.smws.com/) also [in Japan](https://smwsjapan.com)
 
 # Investment / Brokers
 
 There are lots of brokers who will help you buy a cask ... for a price!
 
-* 
 * [The Whisky Cask Company](https://whiskycaskcompany.com/process)
 
 # Startup Distilleries Offering Casks
