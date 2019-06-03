@@ -6,7 +6,6 @@ Please note that I have listed prices, when available, **inclusive of warehousin
 # First Things First
 
 * [Should you buy or invest in a whisky cask?](https://www.whiskyandwisdom.com/should-you-buy-or-invest-in-a-cask-of-whisky/)
-* [Do's and Don'ts of Whisky Cask Investment](https://thewhiskylady.net/2017/08/02/dos-donts-whisky-cask-investment/)
 * [A Sample Agreement from Arran](https://www.arranwhisky.com/assets/000/000/456/Arran_Cask_Purchase_2019_original.pdf?1547202686) - exactly what you're getting into 
 
 Before you go buy casks, think about what you would do with hundreds of bottles of unpopular scotch, which you cannot resell (distilleries claim the right of first refusal). Maybe you'll drink it all, maybe not. Also, due at bottling, are various taxes, bottling and labeling fees, etc. If you choose not to bottle after the initial time period, you will need to pay for bonded storage until you are ready.
