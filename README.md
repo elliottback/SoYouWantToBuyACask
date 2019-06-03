@@ -51,6 +51,7 @@ These are established distilleries which offer cask purchase options.
 |-----------|--------|----|--------|----|------|----|
 |Arran|Isle of Arran|First Fill Ex-Bourbon Barrel|10 Years +|200 Liters|£2,500|[Link](file:///C:/Users/ellio/Downloads/Cask%20Offer%202019.pdf)
 |Arran|Isle of Arran|First Fill Ex-Sherry Hogshead|10 Years +|250 Liters|£3,250|[Link](file:///C:/Users/ellio/Downloads/Cask%20Offer%202019.pdf)
+|Penderyn|Wales|ex-Bourbon Cask|5-7 Years|200 Liters|£2300|[Link](http://penderyn.wales/cask-sales/)
 
 # The Graveyard
 
