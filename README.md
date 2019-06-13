@@ -43,6 +43,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Glasgow|Lowlands|Unpeated Ex-Bourbon|5 Years|200 Litre|£3,125|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Peated Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Triple Distilled Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
+|High Coast|Sweden|ex-Sherry or ex-Bourbon|3 Years|39.25 Liters|€2,300|[Link](http://highcoastwhisky.se/aga-ett-whiskyfat/)
 |Lagg|Isle of Arran|first-fill ex-Sherry Butt|10 Years|200 Liters|£6,000|[Link](http://www.laggwhisky.com/assets/000/000/009/LAGG_Cask_Society_Information_Booklet_2018_original.pdf)
 |Lindores Abbey|Fife|Massive Varieties|10 Years|195 Liters|£4,000|[Link](https://lindoresabbeydistillery.com/welcome-lindores-abbey-distillery/cask-ownership/)
 |Myken|Norway|ex-Sherry or ex-Bourbon|3 Years|40 Liters|€2,300|[Link](https://www.mykendestilleri.no/private-whiskyfat?lang=en)
