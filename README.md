@@ -50,6 +50,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Nephin |Ireland|?|?|200 Liters|€6,500|[Link](http://nephinwhiskey.com/casks)
 |Raasay|Islay|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Raasay|Islay|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
+|Teerenpeli|Finland|ex-Sherry or ex-Bourbon|3-10 Years|Various|€1,400 (initially)|[Link](https://teerenpelidistillery.com/EN/Get-your-own-cask)
 |The Milk & Honey|Israel|first-fill ex-bourbon cask|3 Years|200 Liters|€2,650|[Link](https://mh-distillery.com/wp-content/uploads/2019/03/MH__cask-offer_27_02_digital_spreads.pdf)
 |Toulvaddie|Highlands|?|3 Years|70 Liters|£2,000|[Link](https://www.toulvaddiedistillery.com/cask-ownership)
 |Willowbank|New Zealand|ex-Bourbon American Oak or ex-NZ Red Wine French Oak|2 Years|20 Liters|NZD$2995|[Link](http://www.newzealandwhiskycasks.com/the-offer/)
