@@ -30,6 +30,10 @@ There are lots of brokers who will help you buy a cask ... for a price!
 * [Cask 88](https://cask88.com/whisky-casks/)
 * [The Single Cask](https://www.thesinglecask.co.uk/cask-ownership)
 
+# Independent Bottlers
+
+More established firms which buy barrels for their own product lines.
+
 # Startup Distilleries Offering Casks
 
 These are new distilleries which are selling direct-to-public.  Keep in mind that many of them have not had full releases yet, so you are acting as an angel:
@@ -89,4 +93,6 @@ Casks that once were for sale, but not at time of writing anymore.  As it's an e
 * [Ardnahoe](https://ardnahoedistillery.com/cask-sales/)
 * [Barra](http://www.uisgebeathananeilean.co.uk/invest.html)
 * [Bruichladdich](https://www.bruichladdich.com/whisky-shop/casks)
+* [Glengoyne](https://shop.glengoyne.com/)
 * [Highland Park Viking Soul Cask](https://www.highlandparkwhisky.com/viking-soul-cask-release/)
+* [Jack Daniel's](https://www.jackdaniels.com/SingleBarrel/BuyBarrelRegistration.aspx)
