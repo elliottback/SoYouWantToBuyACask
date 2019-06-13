@@ -87,6 +87,12 @@ These are established distilleries which offer cask purchase options.
 |Penderyn|Wales|ex-Bourbon Cask|5-7 Years|200 Liters|£2300|[Link](http://penderyn.wales/cask-sales/)
 |Woodford|America|Bourbon|Various|~180 Liters|Enquiry Only|[Link](https://www.woodfordreserve.com/whiskey/by-the-barrel/)
 
+# High Touch
+
+A level above inquiry only, these may be region limited, etc:
+
+* Diageo in **Singapore** is offering private cask sales, [contact concierge@johnniewalker.com](https://www.robbreport.com.sg/buy-a-cask-of-diageos-rarest-whiskies-through-its-cask-of-distinction-programme-in-singapore/) 
+
 # The Graveyard
 
 Casks that once were for sale, but not at time of writing anymore.  As it's an evolving business and market, it's quite possible that these might once again sell casks to the public.
