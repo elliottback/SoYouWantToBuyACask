@@ -81,6 +81,7 @@ These are established distilleries which offer cask purchase options.
 |-----------|--------|----|--------|----|------|----|
 |Arran|Isle of Arran|First Fill Ex-Bourbon Barrel|10 Years +|200 Liters|£2,500|[Link](https://www.arranwhisky.com/our-distillery/buy-a-whisky-cask)
 |Arran|Isle of Arran|First Fill Ex-Sherry Hogshead|10 Years +|250 Liters|£3,250|[Link](https://www.arranwhisky.com/our-distillery/buy-a-whisky-cask) 
+|Buffalo Trace|America|First Fill Oak|?|?|Enquiry Only|[Link](https://singlebarrelselect.buffalotracedistillery.com/process.html)
 |Mackmyra|Sweden|Bourbon/Oloroso/American Oak (peated options)|3 Years+|30 Liters|€2,100|[Link](https://mackmyra.se/reserve/bli-fatagare/)
 |Penderyn|Wales|ex-Bourbon Cask|5-7 Years|200 Liters|£2300|[Link](http://penderyn.wales/cask-sales/)
 |Woodford|America|Bourbon|Various|~180 Liters|Enquiry Only|[Link](https://www.woodfordreserve.com/whiskey/by-the-barrel/)
