@@ -60,6 +60,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Teerenpeli|Finland|ex-Sherry or ex-Bourbon|3-10 Years|Various|€1,400 (initially)|[Link](https://teerenpelidistillery.com/EN/Get-your-own-cask)
 |The Milk & Honey|Israel|first-fill ex-bourbon cask|3 Years|200 Liters|€2,650|[Link](https://mh-distillery.com/wp-content/uploads/2019/03/MH__cask-offer_27_02_digital_spreads.pdf)
 |Toulvaddie|Highlands|?|3 Years|70 Liters|£2,000|[Link](https://www.toulvaddiedistillery.com/cask-ownership)
+|Victoria Caledonian|Canada|Various|Various|Various|Enquiry Only|[Link](https://victoriacaledonian.com/cask-program/)
 |Willowbank|New Zealand|ex-Bourbon American Oak or ex-NZ Red Wine French Oak|2 Years|20 Liters|NZD$2995|[Link](http://www.newzealandwhiskycasks.com/the-offer/)
 
 # Startup Distilleries Offering Casks Un-publicly
