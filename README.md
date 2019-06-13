@@ -56,6 +56,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Ncn'ean|Morven|?|?|?|£3,000|[Link](https://www.ncnean.com/buy-a-barrel/)
 |Nephin |Ireland|?|?|200 Liters|€6,500|[Link](http://nephinwhiskey.com/casks)
 |Old Kempton|Tasmania|Various|20 Liters|2 Years|$2550 AUD|[Link](https://www.oldkemptondistillery.com.au/barrel-offers/)
+|Pinckney Bend|America|Missouri White Oak|60 Liters|1 Year+|$3,270|[Link](http://pinckneybend.com/buy-your-own-barrel/)
 |Raasay|Islay|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Raasay|Islay|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Spreewood Distillers|Germany|Various|Up to 12 Years|50/225 Liters|€2,600/€4,700|[Link](https://spreewood-distillers.com/produkt/fass-konfigurator/)
