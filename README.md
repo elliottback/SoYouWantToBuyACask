@@ -53,6 +53,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Myken|Norway|ex-Sherry or ex-Bourbon|3 Years|40 Liters|€2,300|[Link](https://www.mykendestilleri.no/private-whiskyfat?lang=en)
 |Ncn'ean|Morven|?|?|?|£3,000|[Link](https://www.ncnean.com/buy-a-barrel/)
 |Nephin |Ireland|?|?|200 Liters|€6,500|[Link](http://nephinwhiskey.com/casks)
+|Old Kempton|Tasmania|Various|20 Liters|2 Years|$2550 AUD|[Link](https://www.oldkemptondistillery.com.au/barrel-offers/)
 |Raasay|Islay|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Raasay|Islay|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Teerenpeli|Finland|ex-Sherry or ex-Bourbon|3-10 Years|Various|€1,400 (initially)|[Link](https://teerenpelidistillery.com/EN/Get-your-own-cask)
