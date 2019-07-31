@@ -46,6 +46,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Adelphi|Ardnamurchan|American or Spanish oak-ex sherry butt (peated +£300)|10 Years|500 Liters|£6,300|[Link](https://www.adelphidistillery.com/private-casks/)
 |Archie Rose|Australia|Various|4.5 Years|100 Liters|$17,500 AUD|[Link](https://archierose.com.au/tailored-spirits/whisky)
 |Borders|?|?|?|?|£1,995|[Link](https://www.thebordersdistillery.com/casks/)
+|Copper Run Distillery|America|?|1-3 Years|200 Liters|$8,000|[Link](https://copperrundistillery.com/signature-barrel-program/)
 |Glasgow|Lowlands|Unpeated Ex-Bourbon|5 Years|200 Litre|£3,125|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Peated Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Triple Distilled Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
@@ -63,6 +64,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Teerenpeli|Finland|ex-Sherry or ex-Bourbon|3-10 Years|Various|€1,400 (initially)|[Link](https://teerenpelidistillery.com/EN/Get-your-own-cask)
 |The Milk & Honey|Israel|first-fill ex-bourbon cask|3 Years|200 Liters|€2,650|[Link](https://mh-distillery.com/wp-content/uploads/2019/03/MH__cask-offer_27_02_digital_spreads.pdf)
 |Toulvaddie|Highlands|?|3 Years|70 Liters|£2,000|[Link](https://www.toulvaddiedistillery.com/cask-ownership)
+|Urban Distilleries|Canada|First Fill American Oak|3 Years|50/100 Liters|1,200/2,400 CAD|[Link](https://www.urbandistilleries.ca/the-distillery/whisky-cask-offer/)
 |Victoria Caledonian|Canada|Various|Various|Various|Enquiry Only|[Link](https://victoriacaledonian.com/cask-program/)
 |Willowbank|New Zealand|ex-Bourbon American Oak or ex-NZ Red Wine French Oak|2 Years|20 Liters|NZD$2995|[Link](http://www.newzealandwhiskycasks.com/the-offer/)
 
