@@ -24,6 +24,7 @@ Buying and warehousing an entire cask is not necessarily an easy undertaking, an
 
 There are lots of brokers who will help you buy a cask ... for a price!
 
+* [Cask Trade Limited](https://www.casktrade.com/)
 * [Whisky Broker](https://www.whiskybroker.co.uk/)
 * [Cask Brokers](http://cask-brokers.com/)
 * [The Whisky Cask Company](https://whiskycaskcompany.com/process)
