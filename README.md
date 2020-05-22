@@ -31,6 +31,7 @@ There are lots of brokers who will help you buy a cask ... for a price!
 * [Cask 88](https://cask88.com/whisky-casks/)
 * [The Single Cask](https://www.thesinglecask.co.uk/cask-ownership)
 * [HAH Whisky Ltd.](https://hahcws.com/bespoke-bottling/)
+* [Cask X](https://caskx.com/) - Targeting Americans + Australians 
 
 # Independent Bottlers
 
