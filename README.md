@@ -48,6 +48,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Adelphi|Ardnamurchan|American Oak ex-Bourbon or Tennessee barrel (peated +£100) |10 Years|200 Liters|£2,400|[Link](https://www.adelphidistillery.com/private-casks/)
 |Adelphi|Ardnamurchan|American or Spanish oak-ex sherry hogshead (peated +3100)|10 Years|260 Liters|£3,500|[Link](https://www.adelphidistillery.com/private-casks/)
 |Adelphi|Ardnamurchan|American or Spanish oak-ex sherry butt (peated +£300)|10 Years|500 Liters|£6,300|[Link](https://www.adelphidistillery.com/private-casks/)
+|Anandale|Lowlands|Various|?|200L or 500L|£2,580 to £6,000|[Link](https://annandaledistillery.com/pages/casks)
 |Archie Rose|Australia|Various|4.5 Years|100 Liters|$17,500 AUD|[Link](https://archierose.com.au/tailored-spirits/whisky)
 |Borders|?|?|?|?|£1,995|[Link](https://www.thebordersdistillery.com/casks/)
 |Copper Run Distillery|America|?|1-3 Years|200 Liters|$8,000|[Link](https://copperrundistillery.com/signature-barrel-program/)
@@ -60,10 +61,11 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Myken|Norway|ex-Sherry or ex-Bourbon|3 Years|40 Liters|€2,300|[Link](https://www.mykendestilleri.no/private-whiskyfat?lang=en)
 |Ncn'ean|Morven|?|?|?|£3,000|[Link](https://www.ncnean.com/buy-a-barrel/)
 |Nephin |Ireland|?|?|200 Liters|€6,500|[Link](http://nephinwhiskey.com/casks)
-|Old Kempton|Tasmania|Various|20 Liters|2 Years|$2550 AUD|[Link](https://www.oldkemptondistillery.com.au/barrel-offers/)
+|Old Kempton|Tasmania|Various|20 Liters|2 Years|$2,550 AUD|[Link](https://www.oldkemptondistillery.com.au/barrel-offers/)
+|Penderyn|Wales|ex-Bourbon/200 Liters/5-7 Years|£2,300|[Link](http://penderyn.wales/cask-sales/)
 |Pinckney Bend|America|Missouri White Oak|60 Liters|1 Year+|$3,270|[Link](http://pinckneybend.com/buy-your-own-barrel/)
-|Raasay|Islay|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
-|Raasay|Islay|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
+|Raasay|Highlands|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
+|Raasay|Highlands|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Shizuoaka Distillery|Japan|Octaves|up to 5 years|50 Liters|¥300,000|[Link](http://whiskyport.jp/shopdetail/000000001136)
 |Spreewood Distillers|Germany|Various|Up to 12 Years|50/225 Liters|€2,600/€4,700|[Link](https://spreewood-distillers.com/produkt/fass-konfigurator/)
 |Teerenpeli|Finland|ex-Sherry or ex-Bourbon|3-10 Years|Various|€1,400 (initially)|[Link](https://teerenpelidistillery.com/EN/Get-your-own-cask)
@@ -79,11 +81,13 @@ You gotta bug them for nonpublic terms:
 
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
-|Annandale|Lowlands|Peated / Unpeated|?|200 Liters|Enquiry Only|[Link](https://annandaledistillery.com/pages/casks)
+|Ardnahoe|Islay|?|10 Years|?|£11,000|[Link](https://ardnahoedistillery.com/cask-sales/)
 |Cardrona|New Zealand|Oak|10 Years|500/200 Liters|Enquiry Only|[Link](https://www.cardronadistillery.com/private-casks)
-|High Coast|Sweden|3+ Years|40 Liters|Enquiry Only|[Link](http://highcoastwhisky.se/aga-ett-whiskyfat/)
-|Inchdairnie|Fife|?|10 Years|?|Enquiry Only|[Link](http://inchdairniedistillery.com/cask-club/)
-|Spirit of Yorkshire|?|?|?|?|?|[Link](https://www.spiritofyorkshire.com/cask-offer-i26)
+|High Coast|Sweden|3+ Years|?|40 Liters|Enquiry Only|[Link](http://highcoastwhisky.se/aga-ett-whiskyfat/)
+|Inchdairnie|Fife|?|10 Years|?|?|Enquiry Only|[Link](http://inchdairniedistillery.com/cask-club/)
+|Macallan|Highlands|?|?|?|£150,000+|[Link](https://www.themacallan.com/en/contact-us)
+|Midleton|Ireland|?|?|?|€75,000|[Link](https://www.midletonveryrarecaskcircle.com/)
+|Spirit of Yorkshire|?|?|?|?|~£3,350|[Link](https://www.spiritofyorkshire.com/cask-offer-i26)
 |Strathearn|Lowlands?|Various|?|50 Liters|Enquiry Only|[Link](https://www.strathearndistillery.com/private-cask-club)
 
 # Established Distilleries
@@ -113,7 +117,6 @@ A level above inquiry only, these may be region limited, etc:
 Casks that once were for sale, but not at time of writing anymore.  As it's an evolving business and market, it's quite possible that these might once again sell casks to the public.
 
 * [Abbey Whisky Cask Ownership](https://www.abbeywhisky.com/cask-ownership.html)
-* [Ardnahoe](https://ardnahoedistillery.com/cask-sales/)
 * [Barra](http://www.uisgebeathananeilean.co.uk/invest.html)
 * [Bruichladdich](https://www.bruichladdich.com/whisky-shop/casks)
 * [Glengoyne](https://shop.glengoyne.com/)
