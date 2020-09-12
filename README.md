@@ -101,6 +101,8 @@ These are established distilleries which offer cask purchase options.
 |Buffalo Trace|America|First Fill Oak|?|?|Enquiry Only|[Link](https://singlebarrelselect.buffalotracedistillery.com/process.html)
 |Heritage|America|First-Fill Oak|Any|10 Liters|$280|[Link](https://heritagedistilling.com/products/cask-club)
 |Jack Daniel's|America|First Fill Oak|?|~200 Liters|>$10,000|[Link](https://www.jackdaniels.com/whiskey/single-barrel/personal-collection/inquiry-form#jack-daniels-form)
+|Lidl (Ben Bracken)|Germany|First Fill Oloroso|Store @ Home|30 Liters|€974|[Link](https://www.lidl.de/de/ben-bracken-whiskyfass-30l/p302982)
+                                                                         
 |Mackmyra|Sweden|Bourbon/Oloroso/American Oak (peated options)|3 Years+|30 Liters|€2,100|[Link](https://mackmyra.se/reserve/bli-fatagare/)
 |Penderyn|Wales|ex-Bourbon Cask|5-7 Years|200 Liters|£2300|[Link](http://penderyn.wales/cask-sales/)
 |Woodford|America|Bourbon|Various|~180 Liters|Enquiry Only|[Link](https://www.woodfordreserve.com/whiskey/by-the-barrel/)
