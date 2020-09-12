@@ -84,7 +84,7 @@ You gotta bug them for nonpublic terms:
 |Ardnahoe|Islay|?|10 Years|?|£11,000|[Link](https://ardnahoedistillery.com/cask-sales/)
 |Cardrona|New Zealand|Oak|10 Years|500/200 Liters|Enquiry Only|[Link](https://www.cardronadistillery.com/private-casks)
 |High Coast|Sweden|3+ Years|?|40 Liters|Enquiry Only|[Link](http://highcoastwhisky.se/aga-ett-whiskyfat/)
-|Inchdairnie|Fife|?|10 Years|?|?|Enquiry Only|[Link](http://inchdairniedistillery.com/cask-club/)
+|Inchdairnie|Fife|?|10 Years|?|Enquiry Only|[Link](http://inchdairniedistillery.com/cask-club/)
 |Macallan|Highlands|?|?|?|£150,000+|[Link](https://www.themacallan.com/en/contact-us)
 |Midleton|Ireland|?|?|?|€75,000|[Link](https://www.midletonveryrarecaskcircle.com/)
 |Spirit of Yorkshire|?|?|?|?|~£3,350|[Link](https://www.spiritofyorkshire.com/cask-offer-i26)
