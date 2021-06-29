@@ -17,9 +17,10 @@ Lastly, you are buying a single cask, and there's no guarantee if it's going to 
 
 Buying and warehousing an entire cask is not necessarily an easy undertaking, and every cask has its share of risk of being a dud.  Logistically, it might make more sense to buy individual bottle shares in casks of interest; several companies have begun to do this.  I also include the old time cask club, the SMWS here:
 
-* [Craft Whisky Club's Caskshare](https://www.craftwhiskyclub.com/en/caskshare/casks)
+* [Craft Whisky Club's Caskshare](https://www.caskshare.com/caskshares)
+* [Still In Cask](https://stillincask.com/selections/all)
 * [casQueteers](http://www.casqueteers.com/beschikbare-cask-programmas/)
-* [The Scotch Malt Whisky Society](https://www.smws.com/) also [in Japan](https://smwsjapan.com)
+* [The Scotch Malt Whisky Society](https://www.smws.com/) also [in Japan](https://smwsjapan.com) and [America](https://www.smwsa.com/)
 
 # Investment / Brokers
 
@@ -59,7 +60,6 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Lagg|Isle of Arran|first-fill ex-Sherry Butt|10 Years|200 Liters|£6,000|[Link](http://www.laggwhisky.com/assets/000/000/009/LAGG_Cask_Society_Information_Booklet_2018_original.pdf)
 |Lindores Abbey|Fife|Massive Varieties|10 Years|195 Liters|£4,000|[Link](https://lindoresabbeydistillery.com/welcome-lindores-abbey-distillery/cask-ownership/)
 |Myken|Norway|ex-Sherry or ex-Bourbon|3 Years|40 Liters|€2,300|[Link](https://www.mykendestilleri.no/private-whiskyfat?lang=en)
-|Ncn'ean|Morven|?|?|?|£3,000|[Link](https://www.ncnean.com/buy-a-barrel/)
 |Nephin |Ireland|?|?|200 Liters|€6,500|[Link](http://nephinwhiskey.com/casks)
 |Old Kempton|Tasmania|Various|20 Liters|2 Years|$2,550 AUD|[Link](https://www.oldkemptondistillery.com.au/barrel-offers/)
 |Penderyn|Wales|ex-Bourbon/200 Liters/5-7 Years|£2,300|[Link](http://penderyn.wales/cask-sales/)
@@ -74,6 +74,11 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Urban Distilleries|Canada|First Fill American Oak|3 Years|50/100 Liters|1,200/2,400 CAD|[Link](https://www.urbandistilleries.ca/the-distillery/whisky-cask-offer/)
 |Victoria Caledonian|Canada|Various|Various|Various|Enquiry Only|[Link](https://victoriacaledonian.com/cask-program/)
 |Willowbank|New Zealand|ex-Bourbon American Oak or ex-NZ Red Wine French Oak|2 Years|20 Liters|NZD$2995|[Link](http://www.newzealandwhiskycasks.com/the-offer/)
+
+## On Hold
+| Distillery|Location|Cask|Maturity|Size|Price |Link|Comments|
+|-----------|--------|----|--------|----|------|----|--------|
+|Ncn'ean|Morven|?|?|?|£3,000|[Link](https://www.ncnean.com/buy-a-barrel/)|On Hold Until 2023|
 
 # Startup Distilleries Offering Casks Un-publicly
 
