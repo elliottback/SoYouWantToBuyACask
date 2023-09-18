@@ -11,15 +11,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://SoYouWantToBuyACask.github.io',
+  url: 'https://elliottback.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/SoYouWantToBuyACask/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'elliottback', // Usually your GitHub org/user name.
-  projectName: 'elliottback/SoYouWantToBuyACask.github.io', // Usually your repo name.
+  projectName: 'elliottback/SoYouWantToBuyACask', // Usually your repo name.
 
   // GitHub Pages adds a trailing slash to Docusaurus URLs by default. It is recommended to set a trailingSlash config (true or false, not undefined).
   trailingSlash: true,
