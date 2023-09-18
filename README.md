@@ -1,4 +1,8 @@
-# Website
+# So, You Want to Buy A Cask?
+
+Please visit the site at [https://elliottback.github.io/SoYouWantToBuyACask/](https://elliottback.github.io/SoYouWantToBuyACask/).  This is the code-repository for it.
+
+## Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
