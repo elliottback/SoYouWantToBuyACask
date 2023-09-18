@@ -3,7 +3,7 @@ So, you want to buy a whisky cask?  Here's a collection of resources.
 
 Please note that I have listed prices, when available, **inclusive of warehousing costs** for the listed period, but **exclusive of bottling/distribution/taxes**.  
 
-# First Things First
+## First Things First
 
 * [Should you buy or invest in a whisky cask?](https://www.whiskyandwisdom.com/should-you-buy-or-invest-in-a-cask-of-whisky/)
 * [A Sample Agreement from Arran](https://www.arranwhisky.com/assets/000/000/456/Arran_Cask_Purchase_2019_original.pdf?1547202686) - exactly what you're getting into 
@@ -13,7 +13,7 @@ Before you go buy casks, think about what you would do with hundreds of bottles 
 
 Lastly, you are buying a single cask, and there's no guarantee if it's going to be any good. Distilleries blend together a variety of casks to create consistent product; as a single-cask consumer, you won't have that luxury.
 
-# Crowdfunding / Shared Cask Options
+## Crowdfunding / Shared Cask Options
 
 Buying and warehousing an entire cask is not necessarily an easy undertaking, and every cask has its share of risk of being a dud.  Logistically, it might make more sense to buy individual bottle shares in casks of interest; several companies have begun to do this.  I also include the old time cask club, the SMWS here:
 
@@ -22,7 +22,7 @@ Buying and warehousing an entire cask is not necessarily an easy undertaking, an
 * [casQueteers](http://www.casqueteers.com/beschikbare-cask-programmas/)
 * [The Scotch Malt Whisky Society](https://www.smws.com/) also [in Japan](https://smwsjapan.com) and [America](https://www.smwsa.com/)
 
-# Investment / Brokers
+## Investment / Brokers
 
 There are lots of brokers who will help you buy a cask ... for a price!
 
@@ -36,11 +36,11 @@ There are lots of brokers who will help you buy a cask ... for a price!
 * [Cask 88](https://cask88.com/whisky-casks/)
 * [Cask X](https://caskx.com/) - Targeting Americans + Australians 
 
-# Independent Bottlers
+## Independent Bottlers
 
 More established firms which buy barrels for their own product lines.
 
-# Startup Distilleries Offering Casks
+## Startup Distilleries Offering Casks
 
 These are new distilleries which are selling direct-to-public.  Keep in mind that many of them have not had full releases yet, so you are acting as an angel:
 
@@ -75,12 +75,12 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Victoria Caledonian|Canada|Various|Various|Various|Enquiry Only|[Link](https://victoriacaledonian.com/cask-program/)
 |Willowbank|New Zealand|ex-Bourbon American Oak or ex-NZ Red Wine French Oak|2 Years|20 Liters|NZD$2995|[Link](http://www.newzealandwhiskycasks.com/the-offer/)
 
-## On Hold
+### On Hold
 | Distillery|Location|Cask|Maturity|Size|Price |Link|Comments|
 |-----------|--------|----|--------|----|------|----|--------|
 |Ncn'ean|Morven|?|?|?|£3,000|[Link](https://www.ncnean.com/buy-a-barrel/)|On Hold Until 2023|
 
-# Startup Distilleries Offering Casks Un-publicly
+## Startup Distilleries Offering Casks Un-publicly
 
 You gotta bug them for nonpublic terms:
 
@@ -95,7 +95,7 @@ You gotta bug them for nonpublic terms:
 |Spirit of Yorkshire|?|?|?|?|~£3,350|[Link](https://www.spiritofyorkshire.com/cask-offer-i26)
 |Strathearn|Lowlands?|Various|?|50 Liters|Enquiry Only|[Link](https://www.strathearndistillery.com/private-cask-club)
 
-# Established Distilleries
+## Established Distilleries
 
 These are established distilleries which offer cask purchase options.
 
@@ -107,19 +107,18 @@ These are established distilleries which offer cask purchase options.
 |Heritage|America|First-Fill Oak|Any|10 Liters|$280|[Link](https://heritagedistilling.com/products/cask-club)
 |Jack Daniel's|America|First Fill Oak|?|~200 Liters|>$10,000|[Link](https://www.jackdaniels.com/whiskey/single-barrel/personal-collection/inquiry-form#jack-daniels-form)
 |Lidl (Ben Bracken)|Germany|First Fill Oloroso|Store @ Home|30 Liters|€974|[Link](https://www.lidl.de/de/ben-bracken-whiskyfass-30l/p302982)
-                                                                         
 |Mackmyra|Sweden|Bourbon/Oloroso/American Oak (peated options)|3 Years+|30 Liters|€2,100|[Link](https://mackmyra.se/reserve/bli-fatagare/)
 |Penderyn|Wales|ex-Bourbon Cask|5-7 Years|200 Liters|£2300|[Link](http://penderyn.wales/cask-sales/)
 |Woodford|America|Bourbon|Various|~180 Liters|Enquiry Only|[Link](https://www.woodfordreserve.com/whiskey/by-the-barrel/)
 
-# High Touch
+## High Touch
 
 A level above inquiry only, these may be region limited, etc:
 
 * Diageo in **Singapore** is offering private cask sales, [contact concierge@johnniewalker.com](https://www.robbreport.com.sg/buy-a-cask-of-diageos-rarest-whiskies-through-its-cask-of-distinction-programme-in-singapore/) 
 * A list of contacts [for mostly Bourbon](http://whiskyadvocate.com/private-single-barrel-and-small-batch-whiskey-programs/)
 
-# The Graveyard
+## The Graveyard
 
 Casks that once were for sale, but not at time of writing anymore.  As it's an evolving business and market, it's quite possible that these might once again sell casks to the public.
 
