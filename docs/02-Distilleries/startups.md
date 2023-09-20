@@ -2,6 +2,8 @@
 
 These are new distilleries which are selling direct-to-public.  Keep in mind that many of them have not had full releases yet, so you are acting as an angel:
 
+### Scotland
+
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
 |Adelphi|Ardnamurchan|American Oak ex-Bourbon or Tennessee barrel (peated +£125) |10 Years|200 Liters|£3,475|[Link](https://www.adelphidistillery.com/private-casks/)
@@ -9,11 +11,25 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Adelphi|Ardnamurchan|American or Spanish oak-ex sherry butt (peated +£300)|10 Years|500 Liters|£8,600|[Link](https://www.adelphidistillery.com/private-casks/)
 |Anandale|Lowlands|Various|?|Various|£3,000 to £10,500|[Link](https://www.annandaledistillery.com/our-casks/private-casks/)
 |Anandale|Lowlands|1/15th share portfolios|10 Years|Various|£3,300|[Link](https://www.annandaledistillery.com/our-casks/portfolio-casks/)
-|Archie Rose|Australia|Various|4.5 Years|20 - 100 Liters|$4,000 - $17,500 AUD|[Link](https://archierose.com.au/tailored-spirits/custom-cask/)
+
+### Europe
+
+| Distillery|Location|Cask|Maturity|Size|Price |Link|
+|-----------|--------|----|--------|----|------|----|
 |Borders|United Kingdom|?|?|?|£2,400|[Link](https://www.thebordersdistillery.com/private-whisky-cask/)
-|Glasgow|Lowlands|Unpeated Ex-Bourbon|5 Years|200 Litre|£3,125|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
-|Glasgow|Lowlands|Peated Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
-|Glasgow|Lowlands|Triple Distilled Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
+
+### Australasia
+| Distillery|Location|Cask|Maturity|Size|Price |Link|
+|-----------|--------|----|--------|----|------|----|
+|Archie Rose|Australia|Various|4.5 Years|20 - 100 Liters|$4,000 - $17,500 AUD|[Link](https://archierose.com.au/tailored-spirits/custom-cask/)
+
+### Japan
+
+| Distillery|Location|Cask|Maturity|Size|Price |Link|
+|-----------|--------|----|--------|----|------|----|
+|Shizuoaka Distillery|Japan|Octaves|up to 5 years|50 Liters|¥300,000|[Link](http://whiskyport.jp/shopdetail/000000001136)
+
+
 |High Coast|Sweden|ex-Sherry or ex-Bourbon|3 Years|39.25 Liters|€2,300|[Link](http://highcoastwhisky.se/aga-ett-whiskyfat/)
 |Lagg|Isle of Arran|first-fill ex-Sherry Butt|10 Years|200 Liters|£6,000|[Link](http://www.laggwhisky.com/assets/000/000/009/LAGG_Cask_Society_Information_Booklet_2018_original.pdf)
 |Lindores Abbey|Fife|Massive Varieties|10 Years|195 Liters|£4,000|[Link](https://lindoresabbeydistillery.com/welcome-lindores-abbey-distillery/cask-ownership/)
@@ -24,7 +40,6 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Pinckney Bend|America|Missouri White Oak|60 Liters|1 Year+|$3,270|[Link](http://pinckneybend.com/buy-your-own-barrel/)
 |Raasay|Highlands|Ex-Speyside Scotch whisky oak|3 Years|30 Liters|£999|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
 |Raasay|Highlands|First-fill ex-American whiskey casks|10 Years|190 Liters|£5,000|[Link](https://raasaydistillery.com/whisky-shop/buy-a-cask/)|
-|Shizuoaka Distillery|Japan|Octaves|up to 5 years|50 Liters|¥300,000|[Link](http://whiskyport.jp/shopdetail/000000001136)
 |Spreewood Distillers|Germany|Various|Up to 12 Years|50/225 Liters|€2,600/€4,700|[Link](https://spreewood-distillers.com/produkt/fass-konfigurator/)
 |Teerenpeli|Finland|ex-Sherry or ex-Bourbon|3-10 Years|Various|€1,400 (initially)|[Link](https://teerenpelidistillery.com/EN/Get-your-own-cask)
 |The Milk & Honey|Israel|first-fill ex-bourbon cask|3 Years|200 Liters|€2,650|[Link](https://mh-distillery.com/wp-content/uploads/2019/03/MH__cask-offer_27_02_digital_spreads.pdf)
