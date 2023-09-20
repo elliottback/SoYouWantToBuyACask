@@ -16,9 +16,9 @@ Last updated: 2023-09-20.
 
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
-|Lidl (Ben Bracken)|Germany|First Fill Oloroso|Store @ Home|30 Liters|€974|[Link](https://www.lidl.de/de/ben-bracken-whiskyfass-30l/p302982)
-|Mackmyra|Sweden|Bourbon/Oloroso/American Oak (peated options)|3 Years+|30 Liters|€2,100|[Link](https://mackmyra.se/reserve/bli-fatagare/)
-|Penderyn|Wales|ex-Bourbon Cask|5-7 Years|200 Liters|£2300|[Link](http://penderyn.wales/cask-sales/)
+|Lidl<br/>(Ben Bracken)|Germany|First Fill Oloroso|Store @ Home|30 Liters|€974|[Link](https://www.lidl.de/de/ben-bracken-whiskyfass-30l/p302982)
+|Mackmyra|Sweden|Bourbon/Oloroso/American Oak<br/>(peated options)|3 Years+|30 Liters|€2,100|[Link](https://mackmyra.se/reserve/bli-fatagare/)
+|Penderyn|Wales|ex-Bourbon Cask|5-7 Years|200 Liters|£2,300|[Link](http://penderyn.wales/cask-sales/)
 
 ### United States
 

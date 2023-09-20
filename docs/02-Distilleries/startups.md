@@ -13,7 +13,6 @@ Last updated: 2023-09-20.
 |Anandale|Lowlands|1/15th share portfolios|10 Years|Various|£3,300|[Link](https://www.annandaledistillery.com/our-casks/portfolio-casks/)
 |Archie Rose|Australia|Various|4.5 Years|20 - 100 Liters|$4,000 - $17,500 AUD|[Link](https://archierose.com.au/tailored-spirits/custom-cask/)
 |Borders|United Kingdom|?|?|?|£2,400|[Link](https://www.thebordersdistillery.com/private-whisky-cask/)
-
 |Glasgow|Lowlands|Unpeated Ex-Bourbon|5 Years|200 Litre|£3,125|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Peated Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Triple Distilled Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
@@ -41,15 +40,15 @@ Last updated: 2023-09-20.
 |-----------|--------|----|--------|----|------|----|--------|
 |Ncn'ean|Morven|?|?|?|£3,000|[Link](https://www.ncnean.com/buy-a-barrel/)|On Hold Until 2023|
 
-## Startup Distilleries Offering Casks Un-publicly
+## Startup Distilleries Offering Casks Privately
 
-You need to inquire with them for nonpublic terms:
+You need to inquire with them for about their nonpublic terms:
 
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
 |Ardnahoe|Islay|?|10 Years|?|£11,000|[Link](https://ardnahoedistillery.com/cask-sales/)
 |Cardrona|New Zealand|Oak|10 Years|500/200 Liters|Enquiry Only|[Link](https://www.cardronadistillery.com/private-casks)
-|Copper Run Distillery|America|?|1-3 Years|200 Liters|~~(was $8,000)~~|[Link](https://copperrundistillery.com/signature-barrel-program/)
+|Copper Run Distillery|America|?|1-3 Years|200 Liters|Enquiry Only<br/>~~($8,000)~~|[Link](https://copperrundistillery.com/signature-barrel-program/)
 |High Coast|Sweden|3+ Years|?|40 Liters|Enquiry Only|[Link](http://highcoastwhisky.se/aga-ett-whiskyfat/)
 |Inchdairnie|Fife|?|10 Years|?|Enquiry Only|[Link](http://inchdairniedistillery.com/cask-club/)
 |Macallan|Highlands|?|?|?|£150,000+|[Link](https://www.themacallan.com/en/contact-us)
