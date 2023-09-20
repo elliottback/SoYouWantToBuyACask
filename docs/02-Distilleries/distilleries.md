@@ -23,4 +23,4 @@ These are established distilleries which offer cask purchase options.
 |Buffalo Trace|America|First Fill Oak|?|?|Enquiry Only|[Link](https://singlebarrelselect.buffalotracedistillery.com/process.html)
 |Heritage|America|First-Fill Oak|Any|10 Liters|$280|[Link](https://heritagedistilling.com/products/cask-club)
 |Jack Daniel's|America|First Fill Oak|?|~200 Liters|>$10,000|[Link](https://www.jackdaniels.com/whiskey/single-barrel/personal-collection/inquiry-form#jack-daniels-form)
-|Woodford|America|Bourbon|Various|~180 Liters|Enquiry Only|[Link](https://www.woodfordreserve.com/whiskey/by-the-barrel/)
+|Woodford|America|Bourbon|Various|~180 Liters|Enquiry Only|[Link](https://www.woodfordreserve.com/en-uk/lifestyle/personal-selection/)
