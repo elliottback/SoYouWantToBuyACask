@@ -1,0 +1,7 @@
+label: 'Historical Offers'
+collapsible: true # make the category collapsible
+collapsed: false # keep the category open by default
+className: red
+link: null
+#  type: generated-index
+#  title: Tutorial overview

@@ -40,7 +40,8 @@ const config = {
       'classic',
       ({
         docs: {
-          routeBasePath: '/'
+          routeBasePath: '/',
+          sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: false,
         theme: {
@@ -59,7 +60,15 @@ const config = {
         logo: {
           alt: 'So You Want To Buy A Cask',
           src: 'img/logo.jpg',
-        }
+        },
+        items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'sidebar',
+            position: 'left',
+            label: 'Pages',
+          },
+          ],
       },
       footer: {
         style: 'dark',

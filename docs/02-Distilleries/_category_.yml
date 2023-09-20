@@ -1,0 +1,7 @@
+label: 'Distilleries'
+collapsible: true # make the category collapsible
+collapsed: false # keep the category open by default
+className: green
+link: null
+#  type: generated-index
+#  title: Tutorial overview
