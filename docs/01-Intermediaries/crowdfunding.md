@@ -5,4 +5,4 @@ Buying and warehousing an entire cask is not necessarily an easy undertaking, an
 * [Craft Whisky Club's Caskshare](https://www.caskshare.com/caskshares)
 * [Still In Cask](https://stillincask.com/selections/all)
 * [casQueteers](http://www.casqueteers.com/beschikbare-cask-programmas/)
-* [The Scotch Malt Whisky Society](https://www.smws.com/) also [in Japan](https://smwsjapan.com) and [America](https://www.smwsa.com/)
+* [The Scotch Malt Whisky Society](https://www.smws.com/) also [in Japan](https://smwsjapan.com), the [United States of America](https://www.smwsa.com/) and [Singapore](https://www.smwssg.com/)
