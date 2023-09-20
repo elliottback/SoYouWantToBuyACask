@@ -9,3 +9,4 @@ Casks that once were for sale, but not at time of writing anymore.  As it's an e
 * [Glengoyne](https://shop.glengoyne.com/)
 * [Glasgow](https://www.glasgowdistillery.com/)
 * [Highland Park Viking Soul Cask](https://www.highlandparkwhisky.com/viking-soul-cask-release/)
+* [Lidl](https://www.lidl.de/de/ben-bracken-whiskyfass-30l/p302982)
