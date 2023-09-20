@@ -1,8 +1,8 @@
 ## Startup Distilleries Offering Casks
 
-Last updated: 2023-09-20.
-
 These are new distilleries which are selling direct-to-public.  Keep in mind that many of them have not had full releases yet, so you are acting as an angel:
+
+Last updated: 2023-09-20.
 
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
@@ -13,6 +13,7 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 |Anandale|Lowlands|1/15th share portfolios|10 Years|Various|£3,300|[Link](https://www.annandaledistillery.com/our-casks/portfolio-casks/)
 |Archie Rose|Australia|Various|4.5 Years|20 - 100 Liters|$4,000 - $17,500 AUD|[Link](https://archierose.com.au/tailored-spirits/custom-cask/)
 |Borders|United Kingdom|?|?|?|£2,400|[Link](https://www.thebordersdistillery.com/private-whisky-cask/)
+
 |Glasgow|Lowlands|Unpeated Ex-Bourbon|5 Years|200 Litre|£3,125|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Peated Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Triple Distilled Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
