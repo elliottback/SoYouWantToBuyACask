@@ -1,16 +1,19 @@
 ## Startup Distilleries Offering Casks
 
+Last updated: 2023-09-20.
+
 These are new distilleries which are selling direct-to-public.  Keep in mind that many of them have not had full releases yet, so you are acting as an angel:
 
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
-|Adelphi|Ardnamurchan|American Oak ex-Bourbon or Tennessee barrel (peated +£100) |10 Years|200 Liters|£2,400|[Link](https://www.adelphidistillery.com/private-casks/)
-|Adelphi|Ardnamurchan|American or Spanish oak-ex sherry hogshead (peated +3100)|10 Years|260 Liters|£3,500|[Link](https://www.adelphidistillery.com/private-casks/)
-|Adelphi|Ardnamurchan|American or Spanish oak-ex sherry butt (peated +£300)|10 Years|500 Liters|£6,300|[Link](https://www.adelphidistillery.com/private-casks/)
-|Anandale|Lowlands|Various|?|200L or 500L|£2,580 to £6,000|[Link](https://annandaledistillery.com/pages/casks)
-|Archie Rose|Australia|Various|4.5 Years|100 Liters|$17,500 AUD|[Link](https://archierose.com.au/tailored-spirits/whisky)
-|Borders|?|?|?|?|£1,995|[Link](https://www.thebordersdistillery.com/casks/)
-|Copper Run Distillery|America|?|1-3 Years|200 Liters|$8,000|[Link](https://copperrundistillery.com/signature-barrel-program/)
+|Adelphi|Ardnamurchan|American Oak ex-Bourbon or Tennessee barrel (peated +£125) |10 Years|200 Liters|£3,475|[Link](https://www.adelphidistillery.com/private-casks/)
+|Adelphi|Ardnamurchan|American or Spanish oak-ex sherry hogshead (peated +£200)|10 Years|260 Liters|£5,000|[Link](https://www.adelphidistillery.com/private-casks/)
+|Adelphi|Ardnamurchan|American or Spanish oak-ex sherry butt (peated +£300)|10 Years|500 Liters|£8,600|[Link](https://www.adelphidistillery.com/private-casks/)
+|Anandale|Lowlands|Various|?|Various|£3,000 to £10,500|[Link](https://www.annandaledistillery.com/our-casks/private-casks/)
+|Anandale|Lowlands|1/15th share portfolios|10 Years|Various|£3,300|[Link](https://www.annandaledistillery.com/our-casks/portfolio-casks/)
+|Archie Rose|Australia|Various|4.5 Years|20 - 100 Liters|$4,000 - $17,500 AUD|[Link](https://archierose.com.au/tailored-spirits/custom-cask/)
+|Borders|United Kingdom|?|?|?|£2,400|[Link](https://www.thebordersdistillery.com/private-whisky-cask/)
+
 |Glasgow|Lowlands|Unpeated Ex-Bourbon|5 Years|200 Litre|£3,125|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Peated Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
 |Glasgow|Lowlands|Triple Distilled Ex-Bourbon|5 Years|200 Litre|£3,750|[Link](https://glasgowdistillery.com/wp-content/uploads/2018/04/Cask-Club-Glasgow-Distillery_web.pdf)
@@ -40,12 +43,13 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 
 ## Startup Distilleries Offering Casks Un-publicly
 
-You gotta bug them for nonpublic terms:
+You need to inquire with them for nonpublic terms:
 
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
 |Ardnahoe|Islay|?|10 Years|?|£11,000|[Link](https://ardnahoedistillery.com/cask-sales/)
 |Cardrona|New Zealand|Oak|10 Years|500/200 Liters|Enquiry Only|[Link](https://www.cardronadistillery.com/private-casks)
+|Copper Run Distillery|America|?|1-3 Years|200 Liters|~~(was $8,000)~~|[Link](https://copperrundistillery.com/signature-barrel-program/)
 |High Coast|Sweden|3+ Years|?|40 Liters|Enquiry Only|[Link](http://highcoastwhisky.se/aga-ett-whiskyfat/)
 |Inchdairnie|Fife|?|10 Years|?|Enquiry Only|[Link](http://inchdairniedistillery.com/cask-club/)
 |Macallan|Highlands|?|?|?|£150,000+|[Link](https://www.themacallan.com/en/contact-us)
