@@ -2,8 +2,6 @@
 
 These are established distilleries which offer cask purchase options.
 
-Last updated: 2023-09-20.
-
 ### Scotland
 
 | Distillery|Location|Cask|Maturity|Size|Price |Link|

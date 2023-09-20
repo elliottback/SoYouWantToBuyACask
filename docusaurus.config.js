@@ -67,9 +67,19 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'sidebar',
             position: 'left',
-            label: 'Pages',
+            label: 'Home',
           },
-          ],
+            {
+                to: 'Distilleries/distilleries/',
+                position: 'left',
+                label: 'Established Distilleries'
+            },
+            {
+                to: 'Distilleries/startups/',
+                position: 'left',
+                label: 'New Distilleries'
+            },
+      ],
       },
       footer: {
         style: 'dark',

@@ -2,8 +2,6 @@
 
 These are new distilleries which are selling direct-to-public.  Keep in mind that many of them have not had full releases yet, so you are acting as an angel:
 
-Last updated: 2023-09-20.
-
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
 |Adelphi|Ardnamurchan|American Oak ex-Bourbon or Tennessee barrel (peated +£125) |10 Years|200 Liters|£3,475|[Link](https://www.adelphidistillery.com/private-casks/)
