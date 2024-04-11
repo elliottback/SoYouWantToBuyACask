@@ -27,7 +27,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.2.1",
     "@docusaurus/tsconfig": "^3.2.1",
-    "typescript": "^5.4.4"
+    "typescript": "^5.4.5"
   },
   "resolutions": {
     "trim": "^0.0.3",
