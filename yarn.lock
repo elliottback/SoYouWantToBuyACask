@@ -1719,9 +1719,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@divriots/jampack@npm:^0.24.3":
-  version: 0.24.3
-  resolution: "@divriots/jampack@npm:0.24.3"
+"@divriots/jampack@npm:^0.24.4":
+  version: 0.24.4
+  resolution: "@divriots/jampack@npm:0.24.4"
   dependencies:
     "@divriots/cheerio": "npm:1.0.0-rc.12"
     "@proload/core": "npm:^0.3.3"
@@ -1748,7 +1748,7 @@ __metadata:
     unpic: "npm:^3.18.0"
   bin:
     jampack: dist/index.js
-  checksum: 10c0/e555532d510e6bcba27729e13a1dfacd050eba6f2c598ba530353b73f8ecffc89719d7914f795fda7abf1362ecb96071a710f18c987091b5f54ea6a3b11a9d18
+  checksum: 10c0/4438a8e99d8e39fb1060b0f06e9daf4de160af22b20425ca1a053a900e570a5382191254d46dff61bbee36eb2278ed522c3c1fc7ec8384ee311a78f59c1ef2b4
   languageName: node
   linkType: hard
 
@@ -11789,7 +11789,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "soyouwanttobuyacask@workspace:."
   dependencies:
-    "@divriots/jampack": "npm:^0.24.3"
+    "@divriots/jampack": "npm:^0.24.4"
     "@docusaurus/core": "npm:^3.3.2"
     "@docusaurus/module-type-aliases": "npm:^3.3.2"
     "@docusaurus/preset-classic": "npm:^3.3.2"
