@@ -29,7 +29,7 @@
     "@divriots/jampack": "^0.24.4",
     "@docusaurus/module-type-aliases": "^3.4.0",
     "@docusaurus/tsconfig": "^3.4.0",
-    "typescript": "^5.4.5"
+    "typescript": "^5.5.2"
   },
   "resolutions": {
     "trim": "^0.0.3",
