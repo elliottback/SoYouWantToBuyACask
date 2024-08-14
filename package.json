@@ -16,8 +16,8 @@
     "dev": "docusaurus start"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.5.1",
-    "@docusaurus/preset-classic": "^3.5.1",
+    "@docusaurus/core": "^3.5.2",
+    "@docusaurus/preset-classic": "^3.5.2",
     "@mdx-js/react": "^3.0.1",
     "@types/react": "^18.3.3",
     "clsx": "^2.1.1",
@@ -27,8 +27,8 @@
   },
   "devDependencies": {
     "@divriots/jampack": "^0.25.0",
-    "@docusaurus/module-type-aliases": "^3.5.1",
-    "@docusaurus/tsconfig": "^3.5.1",
+    "@docusaurus/module-type-aliases": "^3.5.2",
+    "@docusaurus/tsconfig": "^3.5.2",
     "typescript": "^5.5.4"
   },
   "resolutions": {
