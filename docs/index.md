@@ -6,7 +6,7 @@ Please note that I have listed prices, when available, **inclusive of warehousin
 
 ## Notice from the Scotch Whisky Association
 
-Please read [SWA's newly puylished guidance on personal investment in Scotch Whisky casks](https://www.scotch-whisky.org.uk/media/1738/personal-investment-in-a-scotch-whisky-cask_2023.pdf) ([archive](https://web.archive.org/web/20230628235300/https://www.scotch-whisky.org.uk/media/1738/personal-investment-in-a-scotch-whisky-cask_2023.pdf)):
+Please read [SWA's newly published guidance on personal investment in Scotch Whisky casks](https://www.scotch-whisky.org.uk/media/1738/personal-investment-in-a-scotch-whisky-cask_2023.pdf) ([archive](https://web.archive.org/web/20230628235300/https://www.scotch-whisky.org.uk/media/1738/personal-investment-in-a-scotch-whisky-cask_2023.pdf)):
 
 > [T]here is no regulated market for mature or maturing casks of Scotch Whisky, no officially published list of buying and selling prices for casks from different distilleries or at different ages and no established mechanism for selling. Scotch Whisky casks are not a regularly traded commodity on an open market.
 > 
