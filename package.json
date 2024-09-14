@@ -26,7 +26,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@divriots/jampack": "^0.26.0",
+    "@divriots/jampack": "^0.27.1",
     "@docusaurus/module-type-aliases": "^3.5.2",
     "@docusaurus/tsconfig": "^3.5.2",
     "typescript": "^5.6.2"
