@@ -3393,13 +3393,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@divriots/jampack@npm:^0.30.3":
-  version: 0.30.3
-  resolution: "@divriots/jampack@npm:0.30.3"
+"@divriots/jampack@npm:^0.31.1":
+  version: 0.31.1
+  resolution: "@divriots/jampack@npm:0.31.1"
   dependencies:
     "@commander-js/extra-typings": "npm:^12.0.0"
     "@divriots/cheerio": "npm:1.0.0-rc.12"
-    "@proload/core": "npm:^0.3.3"
     "@swc/core": "npm:^1.4.16"
     add: "npm:^2.0.6"
     browserslist: "npm:^4.23.0"
@@ -3407,12 +3406,14 @@ __metadata:
     critters: "npm:^0.0.22"
     deepmerge: "npm:^4.3.1"
     esbuild: "npm:^0.20.2"
+    escalade: "npm:^3.2.0"
     file-type: "npm:^19.0.0"
     globby: "npm:^14.0.1"
     hasha: "npm:^6.0.0"
     html-minifier-terser: "npm:^7.2.0"
     kleur: "npm:^4.1.5"
     lightningcss: "npm:^1.25.1"
+    lozad: "npm:^1.16.0"
     mini-svg-data-uri: "npm:^1.4.4"
     ora: "npm:^8.0.1"
     quicklink: "npm:^2.3.0"
@@ -3423,7 +3424,7 @@ __metadata:
     unpic: "npm:^3.18.0"
   bin:
     jampack: dist/index.js
-  checksum: 10c0/4fcd0cd80788da9976387831c5bb5081aec8f3ab970ff593ddb4ca9a7dca36c03a17ca1c55779c536d653b63c5d065f1cf48c10e6f4145651080fa1079f911e7
+  checksum: 10c0/867dbfc3dd2f2d73688ce8e879a0599f1bfe4e4f175279ccb5dcc419727a47925d39dd98699844179b496486fac411d5f38065bb2665e4283124c2d9d12e9052
   languageName: node
   linkType: hard
 
@@ -4623,16 +4624,6 @@ __metadata:
   version: 1.0.0-next.25
   resolution: "@polka/url@npm:1.0.0-next.25"
   checksum: 10c0/ef61f0a0fe94bb6e1143fc5b9d5a12e6ca9dbd2c57843ebf81db432c21b9f1005c09e8a1ef8b6d5ddfa42146ca65b640feb2d353bd0d3546da46ba59e48a5349
-  languageName: node
-  linkType: hard
-
-"@proload/core@npm:^0.3.3":
-  version: 0.3.3
-  resolution: "@proload/core@npm:0.3.3"
-  dependencies:
-    deepmerge: "npm:^4.2.2"
-    escalade: "npm:^3.1.1"
-  checksum: 10c0/987518574aef2002c14399d1188c09e43c51c9bda3d89487e015690bc02b4fb6cab88cc9531996cc9ddf26147aa2e13fd24b111310d953fb02b1645d4b0b1499
   languageName: node
   linkType: hard
 
@@ -10081,6 +10072,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"lozad@npm:^1.16.0":
+  version: 1.16.0
+  resolution: "lozad@npm:1.16.0"
+  checksum: 10c0/54b052075dd946662b5e12ac1b8b05cdffae092ec6128e575feb798a8252afef30cc9e60fe572048afb6206e4d5c61df452946a4882d15cf230590097eb700d8
+  languageName: node
+  linkType: hard
+
 "lru-cache@npm:^10.0.1, lru-cache@npm:^10.2.0":
   version: 10.2.2
   resolution: "lru-cache@npm:10.2.2"
@@ -14107,7 +14105,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "soyouwanttobuyacask@workspace:."
   dependencies:
-    "@divriots/jampack": "npm:^0.30.3"
+    "@divriots/jampack": "npm:^0.31.1"
     "@docusaurus/core": "npm:^3.6.3"
     "@docusaurus/module-type-aliases": "npm:^3.6.3"
     "@docusaurus/preset-classic": "npm:^3.6.3"
