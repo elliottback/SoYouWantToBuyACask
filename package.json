@@ -21,9 +21,11 @@
     "@mdx-js/react": "^3.1.0",
     "@types/react": "^18.3.13",
     "clsx": "^2.1.1",
+    "path-to-regexp": "^0.1.12",
     "prism-react-renderer": "^2.4.1",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "@divriots/jampack": "^0.32.0",
@@ -53,5 +55,5 @@
     "yarn": "4.2.1"
   },
   "description": "Website for So You Want To Buy A Cask?",
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.5.3"
 }
