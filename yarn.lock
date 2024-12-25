@@ -14125,7 +14125,7 @@ __metadata:
     react: "npm:^18.3.1"
     react-dom: "npm:^18.3.1"
     typescript: "npm:^5.7.2"
-    ws: "npm:^8.17.1"
+    ws: "npm:^8.18.0"
   languageName: unknown
   linkType: soft
 
@@ -15416,7 +15416,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ws@npm:^8.17.1":
+"ws@npm:^8.18.0":
   version: 8.18.0
   resolution: "ws@npm:8.18.0"
   peerDependencies:
