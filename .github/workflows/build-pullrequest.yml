@@ -1,5 +1,7 @@
 name: Build pull-request
 
+permissions: {}
+
 on:
   pull_request:
     branches:
