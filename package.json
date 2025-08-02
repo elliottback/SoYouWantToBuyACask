@@ -31,7 +31,7 @@
     "@divriots/jampack": "^0.33.1",
     "@docusaurus/module-type-aliases": "^3.8.1",
     "@docusaurus/tsconfig": "^3.8.1",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.2"
   },
   "resolutions": {
     "path-to-regexp": "^0.1.12"
