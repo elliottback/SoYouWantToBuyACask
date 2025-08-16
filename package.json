@@ -54,5 +54,5 @@
     "yarn": "4.2.1"
   },
   "description": "Website for So You Want To Buy A Cask?",
-  "packageManager": "yarn@4.8.1"
+  "packageManager": "yarn@4.9.2"
 }
