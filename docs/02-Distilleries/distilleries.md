@@ -4,10 +4,12 @@ These are established distilleries which offer cask purchase options.
 
 ### Scotland
 
-| Distillery|Location|Cask|Maturity|Size|Price |Link|
-|-----------|--------|----|--------|----|------|----|
-|Arran|Isle of Arran (Lochranza)|First Fill Ex-Bourbon Barrel|10 Years +|200 Liters|£5,000|[Link](https://www.arranwhisky.com/our-distillery/buy-a-whisky-cask)
-|Arran|Isle of Arran (Lochranza)|First Fill Ex-Sherry Hogshead|10 Years +|250 Liters|£6,650|[Link](https://www.arranwhisky.com/our-distillery/buy-a-whisky-cask)
+| Distillery|Location|Cask|Maturity|Size| Price  |Link|
+|-----------|--------|----|--------|----|--------|----|
+|Arran|Isle of Arran (Lochranza)|First Fill Ex-Bourbon Barrel|10 Years +|200 Liters| £5,000 |[Link](https://www.arranwhisky.com/our-distillery/buy-a-whisky-cask)
+|Arran|Isle of Arran (Lochranza)|First Fill Ex-Sherry Hogshead|10 Years +|250 Liters| £6,650 |[Link](https://www.arranwhisky.com/our-distillery/buy-a-whisky-cask)
+|Kingsbarn|Fife|First Fill Ex-Bourbon Barrel|10 Years|200 Liters| £3,800 |[Link](https://www.kingsbarnsdistillery.com/collections/private-cask-ownership/products/kingsbarns-private-cask-american-standard-barrel-ex-bourbon-cask)|
+|Kingsbarn|Fife|First Fill Ex-Sherry Hogshead|10 Years|250 Liters| £5,850 |[Link](https://www.kingsbarnsdistillery.com/collections/private-cask-ownership/products/kingsbarns-private-cask-hogshead-ex-sherry-cask)|
 
 ### Europe
 
