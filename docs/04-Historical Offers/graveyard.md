@@ -15,7 +15,11 @@ Companies that appear to exist still:
 * [Highland Park Viking Soul Cask](https://www.highlandparkwhisky.com/viking-soul-cask-release/)
 * [Lagg](http://www.laggwhisky.com/)
 * [Lidl](https://www.lidl.de/de/ben-bracken-whiskyfass-30l/p302982)
+* [Mackmyra](https://www.mackmyra.se/en)
+  * 2022 - Bourbon/Oloroso/American Oak (peated options), 3 Years+, 30 Liters, €1,337+ - [Archive Link](https://web.archive.org/web/20221201125510/https://mackmyra.se/fat-3/)
 * [Pinckney Bend](http://pinckneybend.com/buy-your-own-barrel/)
+* [Woodford Reserve](https://www.woodfordreserve.com/)
+  * 2023 - Various, ~180 Liters, Enquiry Only [Archive Link](https://web.archive.org/web/20240412204956/https://www.woodfordreserve.com/en-uk/lifestyle/personal-selection/)
 
 ### Troubled Waters
 

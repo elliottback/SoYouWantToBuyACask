@@ -2,9 +2,9 @@
 
 These are established distilleries which offer cask purchase options.
 
-### Scotland
-
 *Last updated: 2025-08-16*
+
+### Scotland
 
 | Distillery|Location|Cask|Maturity|Size| Price  |Link|
 |-----------|--------|----|--------|----|--------|----|
@@ -19,7 +19,6 @@ These are established distilleries which offer cask purchase options.
 
 | Distillery|Location|Cask|Maturity|Size|Price |Link|
 |-----------|--------|----|--------|----|------|----|
-|Mackmyra|Sweden|Bourbon/Oloroso/American Oak<br/>(peated options)|3 Years+|30 Liters|€1,337+|[Link](https://mackmyra.se/fat-3/)
 |Penderyn|Wales|ex-Bourbon Cask|5-7 Years|200 Liters|£2,900|[Link](http://penderyn.wales/cask-sales/)
 
 ### United States
@@ -28,5 +27,4 @@ These are established distilleries which offer cask purchase options.
 |-----------|--------|----|--------|----|------|----|
 |Buffalo Trace|America|First Fill Oak|?|?|Enquiry Only|[Link](https://singlebarrelselect.buffalotracedistillery.com/process.html)
 |Heritage|America|First-Fill Oak|Any|10 Liters|$280|[Link](https://heritagedistilling.com/products/cask-club)
-|Jack Daniel's|America|First Fill Oak|?|~200 Liters|>$10,000|[Link](https://www.jackdaniels.com/whiskey/single-barrel/personal-collection/inquiry-form#jack-daniels-form)
-|Woodford|America|Bourbon|Various|~180 Liters|Enquiry Only|[Link](https://www.woodfordreserve.com/en-uk/lifestyle/personal-selection/)
+|Jack Daniel's|America|First Fill Oak|?|~200 Liters|>$10,000|[Link](https://www.jackdaniels.com/shop/buy-a-barrel)
