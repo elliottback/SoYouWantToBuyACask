@@ -13843,7 +13843,7 @@ __metadata:
     "@mdx-js/react": "npm:^3.1.1"
     "@types/react": "npm:^19.1.12"
     clsx: "npm:^2.1.1"
-    path-to-regexp: "npm:^8.2.0"
+    path-to-regexp: "npm:^8.3.0"
     prism-react-renderer: "npm:^2.4.1"
     react: "npm:^19.1.1"
     react-dom: "npm:^19.1.1"
