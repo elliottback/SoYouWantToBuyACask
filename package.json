@@ -28,7 +28,7 @@
     "ws": "^8.18.3"
   },
   "devDependencies": {
-    "@divriots/jampack": "^0.33.1",
+    "@divriots/jampack": "^0.34.0",
     "@docusaurus/module-type-aliases": "^3.8.1",
     "@docusaurus/tsconfig": "^3.8.1",
     "typescript": "^5.9.2"
