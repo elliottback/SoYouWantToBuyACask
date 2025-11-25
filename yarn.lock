@@ -5533,12 +5533,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^19.2.6":
-  version: 19.2.6
-  resolution: "@types/react@npm:19.2.6"
+"@types/react@npm:^19.2.7":
+  version: 19.2.7
+  resolution: "@types/react@npm:19.2.7"
   dependencies:
     csstype: "npm:^3.2.2"
-  checksum: 10c0/23b1100f88662ce9f9e4fcca3a2b4ef9fff1ecde24ede2b2dcbd07731e48d6946fd7fd156cd133f5b25321694b0569cd9b8dd30b22c4e076d1cf4c8cdd9a75cb
+  checksum: 10c0/a7b75f1f9fcb34badd6f84098be5e35a0aeca614bc91f93d2698664c0b2ba5ad128422bd470ada598238cebe4f9e604a752aead7dc6f5a92261d0c7f9b27cfd1
   languageName: node
   linkType: hard
 
@@ -14123,7 +14123,7 @@ __metadata:
     "@docusaurus/preset-classic": "npm:^3.9.2"
     "@docusaurus/tsconfig": "npm:^3.9.2"
     "@mdx-js/react": "npm:^3.1.1"
-    "@types/react": "npm:^19.2.6"
+    "@types/react": "npm:^19.2.7"
     clsx: "npm:^2.1.1"
     path-to-regexp: "npm:^8.3.0"
     prism-react-renderer: "npm:^2.4.1"
