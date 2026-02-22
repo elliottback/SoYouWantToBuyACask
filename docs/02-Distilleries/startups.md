@@ -35,9 +35,10 @@ These are new distilleries which are selling direct-to-public.  Keep in mind tha
 
 ### Japan
 
-| Distillery|Location|Cask|Maturity|Size|Price |Link|
-|-----------|--------|----|--------|----|------|----|
-|Shizuoaka Distillery|Japan|Octaves|4-5 years|100 Liters|¥985,600|[Link](https://shizuoka-distillery.jp/products/private-cask/privatecask2023-quarter/)
+| Distillery|Location| Cask           | Maturity               | Size            | Price                               |Link|
+|-----------|--------|----------------|------------------------|-----------------|-------------------------------------|----|
+|Kanosuke Distillery|Japan| Bourbon Barrel | 5 years| 200 Bulk Litres | ¥4,356,000<br/>(¥4,554,000 peated) |[Link](https://kanosuke.com/en/blogs/news/owners-cask-2026)
+|Shizuoaka Distillery|Japan| Octaves        | 4-5 years              | 100 Liters      | ¥985,600                            |[Link](https://shizuoka-distillery.jp/products/private-cask/privatecask2023-quarter/)
 
 ### Elsewhere
 
