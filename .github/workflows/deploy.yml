@@ -9,6 +9,9 @@ on:
 
 permissions: {}
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     name: Build production site
@@ -32,7 +35,7 @@ jobs:
       - name: Jampack
         run: npx @divriots/jampack build
 
-      - uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4
+      - uses: actions/upload-pages-artifact@a28178122c42bb1244d56f6f193796d8e203004a # v5
         with:
           path: build
 
