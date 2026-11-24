@@ -19,11 +19,11 @@
     "@docusaurus/core": "^3.10.2",
     "@docusaurus/preset-classic": "^3.10.2",
     "@mdx-js/react": "^3.1.1",
-    "@types/react": "^19.2.13",
+    "@types/react": "^19.3.0",
     "clsx": "^2.1.1",
     "path-to-regexp": "^8.4.1",
     "prism-react-renderer": "^2.4.1",
-    "react": "^19.2.4",
+    "react": "^19.3.1",
     "react-dom": "^19.2.4",
     "ws": "^8.23.0"
   },
