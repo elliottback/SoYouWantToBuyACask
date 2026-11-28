@@ -27,7 +27,7 @@ jobs:
           persist-credentials: false
 
       - name: Install the latest version of uv
-        uses: astral-sh/setup-uv@v10.3.3
+        uses: astral-sh/setup-uv@v10.4.0
 
       - name: Run zizmor 🌈 for output
         run: uvx zizmor --format plain --no-exit-codes .
